@@ -1,8 +1,11 @@
 # Prismjs (Modified)
 
-## This is a modified version of the <a href="http://prismjs.com/">Prism syntax highlighter</a>.
+This is a modified version of the <a href="http://prismjs.com/">Prism syntax highlighter</a>.
+
+### Screenshots
 
 ![Brogrammer Screenshot](http://i.imgur.com/muzd4vf.png?1)
+
 ![Brogrammer Screenshot](http://i.imgur.com/6D3dv20.png?1)
 
 ### Noteable Modifications:
